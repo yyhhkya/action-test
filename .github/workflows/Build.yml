@@ -37,4 +37,4 @@ jobs:
       with:
         tag: "test123"
         artifacts: "openwrt/*"
-        body: "# 未测试<br>IP: 192.168.2.1 | Password: none"
+        body: "# 未测试<br><br>IP: 192.168.2.1 | Password: none"
