@@ -35,7 +35,7 @@ jobs:
     - name: 发布固件至 Release
       uses: ncipollo/release-action@v1
       with:
-        tag: "test1231"
+        tag: "test11231"
         artifacts: "openwrt/*"
         body: |
           # 未测试×
