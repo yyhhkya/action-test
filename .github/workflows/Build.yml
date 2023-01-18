@@ -35,6 +35,6 @@ jobs:
     - name: 发布固件至 Release
       uses: ncipollo/release-action@v1
       with:
-        tag: "test123"
+        tag: "test1231"
         artifacts: "openwrt/*"
         body: "# 未测试<br><br>IP: 192.168.2.1 | Password: none"
